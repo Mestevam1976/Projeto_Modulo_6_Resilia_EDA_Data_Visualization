@@ -78,10 +78,10 @@ Colab
 <h3>Para acessar o perfil no GitHub de membro da equipe clique na foto e você será redirecionado.</h3>
 <table align="center">
     <tr align="center">        
-    <td><a href="https://github.com/leticiafelippe"></a><img src="https://static.wixstatic.com/media/fa559d_7cd4e0d00dc6431e937b93efc00949c9~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/LETICIA.webp"</td>
+    <td><a href="https://github.com/leticiafelippe"><img src="https://static.wixstatic.com/media/fa559d_7cd4e0d00dc6431e937b93efc00949c9~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/LETICIA.webp"</a></td>
     <td><a href="https://github.com/Mestevam1976" target="_blank"><img src="https://static.wixstatic.com/media/fa559d_fa2cf4ccc63e4aa6b4139bd9fd83a54c~mv2.jpg/v1/crop/x_74,y_0,w_550,h_595/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/marcio.webp"></a></td>
-    <td><a href="https://github.com/PHSFernandes"></a><img src="https://static.wixstatic.com/media/fa559d_32b5fb5b548d47abbbee5f77f35121c9~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/PH.webp"</td>
-    <td><a href="https://github.com/Reinaldos"></a><img src="https://static.wixstatic.com/media/fa559d_6a3934268c4d46d3901ed0e0324b45f0~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/REINALDO.webp"</td>        
+    <td><a href="https://github.com/PHSFernandes"><img src="https://static.wixstatic.com/media/fa559d_32b5fb5b548d47abbbee5f77f35121c9~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/PH.webp"</a></td>
+    <td><a href="https://github.com/Reinaldos"><img src="https://static.wixstatic.com/media/fa559d_6a3934268c4d46d3901ed0e0324b45f0~mv2.jpg/v1/fill/w_189,h_192,al_c,q_80,usm_0.66_1.00_0.01/REINALDO.webp"</a></td>        
     </tr>    
     <tr align="center">
         <td><p align="center"><b>LETÍCIA FELIPPE</b></p></td>
