@@ -70,6 +70,8 @@ escolher qual ferramenta irá utilizar);
 
 ><a href="https://1drv.ms/u/s!Auj0X9C32kt0g8t00L9DeZGpigxxLg?e=FXMz1e" target="_blank">Dados de 2021 - formato .csv</a>
 
+><a href="https://www.kaggle.com/mrcioestevamdasilva/projeto-modulo-6-resilia" target="_blank">Notebook na Plataforma Kaggle - formato .ipynb</a>
+
 
 <h2>Equipe de Projeto</h2>
 
