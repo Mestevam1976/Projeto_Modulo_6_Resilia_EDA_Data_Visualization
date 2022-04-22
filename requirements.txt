@@ -1,0 +1,42 @@
+anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
+anaconda-navigator==2.1.2
+anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1637161053845/work
+conda==4.12.0
+conda-build==3.21.6
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
+conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
+conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+conda-verify==3.4.2
+et-xmlfile==1.1.0
+json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
+jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jupyter @ file:///C:/ci/jupyter_1607685287094/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-core @ file:///C:/ci/jupyter_core_1646994619043/work
+jupyter-server @ file:///opt/conda/conda-bld/jupyter_server_1644494914632/work
+jupyterlab @ file:///opt/conda/conda-bld/jupyterlab_1644830542042/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///opt/conda/conda-bld/jupyterlab_server_1644500396812/work
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1645455836921/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+navigator-updater==0.2.1
+numpy @ file:///C:/ci_310/numpy_and_numpy_base_1643798589088/work
+numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+pandas @ file:///C:/ci/pandas_1644984307868/work
+pandas-profiling @ https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+plotly==5.6.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.2.4
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
+scikit-image==0.18.3
+scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
+scikit-learn-intelex==2021.20220215.102710
+scipy @ file:///C:/ci/scipy_1641555170412/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
