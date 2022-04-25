@@ -1,0 +1,21 @@
+Origem / Destino,Qtde de Viagens,Origem,Destino,Cidade_origem,Cidade_destino
+BSB/CGB,578,BSB,CGB,Brasília,Cuiabá
+CGB/BSB,571,CGB,BSB,Cuiabá,Brasília
+OPS/CGB,41,OPS,CGB,Sinop,Cuiabá
+CGB/BSB/CGB,37,CGB,CGB,Cuiabá,Cuiabá
+OPS/BSB,26,OPS,BSB,Sinop,Brasília
+BSB/OPS,25,BSB,OPS,Brasília,Sinop
+CGB/OPS,25,CGB,OPS,Cuiabá,Sinop
+BSB/CGB/BSB,19,BSB,BSB,Brasília,Brasília
+CGH/BSB,12,CGH,BSB,São Paulo,Brasília
+CGB/SMT,11,CGB,SMT,Cuiabá,Sorriso
+GRU/CGB,8,GRU,CGB,Guarulhos,Cuiabá
+BSB/CGH,8,BSB,CGH,Brasília,São Paulo
+CGB/GRU,7,CGB,GRU,Cuiabá,Guarulhos
+CGH/CGB,6,CGH,CGB,São Paulo,Cuiabá
+CGB/CGH,5,CGB,CGH,Cuiabá,São Paulo
+GRU/BSB,5,GRU,BSB,Guarulhos,Brasília
+CGB/OPS/CGB,4,CGB,CGB,Cuiabá,Cuiabá
+BSB/BSB,4,BSB,BSB,Brasília,Brasília
+CGB/SXO,3,CGB,SXO,Cuiabá,São Félix do Araguaia
+BSB/CGB/OPS,3,BSB,OPS,Brasília,Sinop
