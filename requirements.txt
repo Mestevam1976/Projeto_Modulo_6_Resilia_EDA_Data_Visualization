@@ -13,7 +13,7 @@ fonttools==4.33.3
 ipykernel @ file:///D:/bld/ipykernel_1649684466269/work/dist/ipykernel-6.13.0-py3-none-any.whl
 ipython @ file:///D:/bld/ipython_1648413712410/work
 jedi @ file:///D:/bld/jedi_1649067336192/work
-joblib==1.1.0
+joblib==1.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1650972844302/work
 jupyter-core @ file:///D:/bld/jupyter_core_1645024565859/work
 kiwisolver==1.4.2
