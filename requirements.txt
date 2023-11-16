@@ -2,7 +2,7 @@ asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_16189683
 autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
-certifi==2021.10.8
+certifi==2023.7.22
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
 cycler==0.11.0
 debugpy @ file:///D:/bld/debugpy_1649586532851/work
