@@ -9,7 +9,7 @@ debugpy @ file:///D:/bld/debugpy_1649586532851/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1646044401614/work
-fonttools==4.33.3
+fonttools>=4.43.0
 ipykernel @ file:///D:/bld/ipykernel_1649684466269/work/dist/ipykernel-6.13.0-py3-none-any.whl
 ipython @ file:///D:/bld/ipython_1648413712410/work
 jedi @ file:///D:/bld/jedi_1649067336192/work
